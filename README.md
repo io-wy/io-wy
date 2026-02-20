@@ -4,11 +4,8 @@ I am io-wy! My study interests include, but are not limited to, llm application 
 
 AI worker, pursuing the interesting "tricks" and aesthetics
 
-Crafting graceful software & delving into cutting-edge technology
-
 Open to tech talks,architecture reviews, and creative collaborations
 
-Idealist walking the tightrope of the world
 
 
 
